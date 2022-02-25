@@ -1,4 +1,4 @@
-Alberto Jimenez Electronico Industrial actualmente trabajanso como autonomo.  
+Alberto Jimenez Electronico Industrial actualmente trabajando como autonomo.  
 <!--
 ### Hi there 👋
 
