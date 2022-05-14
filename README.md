@@ -1,44 +1,15 @@
-Alberto Jimenez Electronico Industrial actualmente trabajando como autonomo.  
-<!--
-### Hi there 👋
-
-Creating a Kaggle Workflow: In this project, I tried to build a workflow for a sample of the Kaggle's projects (the sinking of the Titanic) so I can follow the same pattern for the other Kaggle projects in the future
-
-Building A Handwritten Digits Classifier: In this project, I tried to use and compare the k-nearest neighbors algorithm and neural networks with different numbers of neurons and different hidden layers for classifying handwritten digits problem.
-
-Predicting Bike Rentals: In this project, I have used and compared Linear Regression, Decision Tree Regression and Random Forest algorithms to predict bike rentals. I also tried to find the best parameters to prevent overfitting and get good results.
-
-Predicting the stock market This project is about using the linear regression model to predict the daily price of the S&P500 Index. Making predictions only one day ahead is also practiced.
-
-Predicting House Sale Prices: In this project, for predicting house prices feature engineering and feature selection with the combination of the linear regression model are used.
-
-Predicting Car Prices: This project is about using the k-nearest neighbors algorithm to predict car prices.
-
-Winning Jeopardy: In this project, a dataset of Jeopardy questions is used to figure out some patterns in the questions that could help to win.
-
-Building a Spam Filter with Naive Bayes: In this project, a spam filter function is written using the multinomial Naive Bayes algorithm to classify SMS messages as spam and non-spam.
-
-Mobile App for Lottery Addiction: A medical institute decides to build a mobile app to help lottery addicts to estimate the probability of winning. This project provides the engineering team of the institute some functions to calculate the requested probabilities.
-
-Finding the best markets to advertise: In this project I help an elearning company to find the best market to advertise in based on the freeCodeCamp's 2017 New Coder Survey.
-
-SAT scores of NYC schools and Demographics: This project analyzes New York City schools according to the SAT score and tries to find correlations between demographics like race, gender, class size, and more.
-
-Star Wars Survey: This project is based on the Star Wars survey of FiveThirtyEight team. The ranking and number of views are analyzed based on some factors like gender, education, location, etc.
-
-Dissatisfaction in Employee Exit Surveys: In this project, I work with exit surveys from two institutes in Queensland, Australia, and try to analyze if employees resigning due to some kind of dissatisfaction.
 
 
-**albertjimrod/albertjimrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alberto Jimenez, I studied electronics to understand the workings of electronic musical instruments and the inner of sound design. 
 
-Here are some ideas to get you started:
+I was working in different electronics and audiovisual companies as a technician, and also as a freelance sound designer for a company online called [Gameprefabs today **Unity Asset Store**](https://assetstore.unity.com/publishers/2954), and as an [electronic music composer profile](https://www.imdb.com/title/tt0466106/?ref_=fn_al_tt_1) for a couple of movies while I discover Linux, [Arduino](https://www.arduino.cc/), and the Open software community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Finally, [I built my synth](https://midimachines.wordpress.com/), the synthesizer which I went into electronics! and somehow it close the cycle of electronics and technician stuff, so I needed to update myself, and improve professionally, so I did it by studying for a [Master's degree in Business Intelligence and Big Data](https://accounts.iebschool.com/mi-diploma/abaa0886b52591b851a33c17b4653f20/) online. 
+
+I decided to extract the maximum benefit from the time I was studying for my master's so *with a fair knowledge of programming Python*, but with a **very great need to have the content of the videos transcribed**, I had to create a very simple tool to be able to make the transcriptions of the Vimeo videos and have all the text in the video lessons, i called: [Sonus transcriber]()
+
+Suddenly a new world of possibilities opened up in front of me, so I decided to apply my new knowledge in a field that was already known to me and, I did it in my master's thesis with a project called:
+
+FREQUENCY CLASSIFICATION OF SOUND SAMPLES THROUGH THE REDUCTION OF DIMENSIONALITY THROUGH MULTIDIMENSIONAL SCALING
+
+Since then I continue to train in the field of data analysis and machine learning.
