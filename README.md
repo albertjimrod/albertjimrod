@@ -17,7 +17,10 @@ Since then I continue to train in the field of data analysis and machine learnin
 ||00-Profitable App Profiles for the App Store and Google Play Markets|
 ||01-Hacker News|
 
-02 Data_Analisis_Visualization
+|02 Data_Analisis_Visualization||
+||Data Visualization Fundamentals|
+||Exploring eBay Car Sales Data|
+||Storytelling Data Visualization and Information Design|
 
 
 03_Data_Cleaning
