@@ -8,8 +8,34 @@ Finally, [I built my synth](https://midimachines.wordpress.com/), the synthesize
 
 I decided to extract the maximum benefit from the time I was studying for my master's so *with a fair knowledge of programming Python*, but with a **very great need to have the content of the videos transcribed**, I had to create a very simple tool to be able to make the transcriptions of the Vimeo videos and have all the text in the video lessons, i called: [Sonus transcriber](https://github.com/albertjimrod/personal_projects/blob/main/Sonus_transcribere/sonus%20transcriber.md)
 
-Suddenly a new world of possibilities opened up in front of me, so I decided to apply my new knowledge in a field that was already known to me and, I did it in R language in my master's thesis with a project called:
-
-FREQUENCY CLASSIFICATION OF SOUND SAMPLES THROUGH THE REDUCTION OF DIMENSIONALITY THROUGH MULTIDIMENSIONAL SCALING
+Suddenly a new world of possibilities opened up in front of me, so I decided to apply my new knowledge in a field that was already known to me and, I did it in [R language](https://www.r-project.org/) in my master's thesis.
 
 Since then I continue to train in the field of data analysis and machine learning.
+
+|01 Python||
+|:---|:---|
+||00-Profitable App Profiles for the App Store and Google Play Markets|
+||01-Hacker News|
+
+02 Data_Analisis_Visualization
+
+
+03_Data_Cleaning
+
+
+04_Bash_Linux
+
+
+05_SQL
+
+
+06_Probability_and_Statistics
+
+
+07_ML_I
+
+
+08_ML_II
+
+
+09_Topics_Data_Science
