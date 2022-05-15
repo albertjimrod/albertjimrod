@@ -12,12 +12,17 @@ Suddenly a new world of possibilities opened up in front of me, so I decided to 
 
 Since then I continue to train in the field of data analysis and machine learning.
 
-# My data science projects
-|**R**||
-|||
 
+la estructura me apetece que sea como he hecho en el proyecto del master:
+
+Los enlaces que aqui pongo te llevan al readme y de ahí al enlace del proyecto
+
+# My data science projects
+|a|b|
+|:---|:---|
+|**R**||
+||[FREQUENCY CLASSIFICATION OF SOUND SAMPLES THROUGH THE REDUCTION OF DIMENSIONALITY](https://github.com/albertjimrod/personal_projects/tree/main/Master_thesis#readme)|
 |**Python**||
-|:---       |:---|
 |           |00-Profitable App Profiles for the App Store and Google Play Markets|
 |           |[01-Hacker News](https://github.com/albertjimrod/Data-science-projects/tree/main/01%20Python/01-Hacker%20News)|
 |**Data Analisis Visualization**||
