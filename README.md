@@ -12,15 +12,26 @@ Suddenly a new world of possibilities opened up in front of me, so I decided to 
 
 Since then I continue to train in the field of data analysis and machine learning.
 
-|01 Python||
-|:---|:---|
-||00-Profitable App Profiles for the App Store and Google Play Markets|
-||01-Hacker News|
+# My data science projects
 
-|02 Data_Analisis_Visualization||
-||Data Visualization Fundamentals|
-||Exploring eBay Car Sales Data|
-||Storytelling Data Visualization and Information Design|
+|Python||
+|:---       |:---|
+|           |00-Profitable App Profiles for the App Store and Google Play Markets|
+|           |[01-Hacker News](https://github.com/albertjimrod/Data-science-projects/tree/main/01%20Python/01-Hacker%20News)|
+|Data_Analisis_Visualization||
+|           |Data Visualization Fundamentals|
+|           |Exploring eBay Car Sales Data|
+|           |Storytelling Data Visualization and Information Design|
+|Data_Cleaning||
+||Analyzing NYC High School Data|
+||Star Wars Survey|
+|SQL||
+||Analyzing CIA Factbook Data Using SQL|
+|||
+|||
+
+
+
 
 
 03_Data_Cleaning
