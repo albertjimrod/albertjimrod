@@ -31,31 +31,7 @@ Los enlaces que aqui pongo te llevan al readme y de ahí al enlace del proyecto
 |           |Storytelling Data Visualization and Information Design|
 |**Data_Cleaning**||
 ||Visualizing Earnings Based On College Majors(Extra)|
+||[Clean and Analyze Employee Exit Surveys](https://github.com/albertjimrod/Data-science-projects/blob/main/03_Data_Cleaning/Clean%20and%20Analyze%20Employee%20Exit%20Surveys/README.md)|
 |**SQL**||
-||Analyzing CIA Factbook Data Using SQL|
-||Clean and Analyze Employee Exit Surveys|
+||[Analyzing CIA Factbook Data Using SQL](https://github.com/albertjimrod/Data-science-projects/blob/main/05_SQL/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/README.md)|
 
-
-
-
-
-
-03_Data_Cleaning
-
-
-04_Bash_Linux
-
-
-05_SQL
-
-
-06_Probability_and_Statistics
-
-
-07_ML_I
-
-
-08_ML_II
-
-
-09_Topics_Data_Science
