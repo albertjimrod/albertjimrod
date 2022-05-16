@@ -18,7 +18,7 @@ la estructura me apetece que sea como he hecho en el proyecto del master:
 Los enlaces que aqui pongo te llevan al readme y de ahí al enlace del proyecto
 
 # My data science projects
-|a|b|
+|||
 |:---|:---|
 |**R**||
 ||[FREQUENCY CLASSIFICATION OF SOUND SAMPLES THROUGH THE REDUCTION OF DIMENSIONALITY](https://github.com/albertjimrod/personal_projects/tree/main/Master_thesis#readme)|
