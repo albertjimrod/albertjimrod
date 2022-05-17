@@ -1,5 +1,5 @@
 
-https://badgen.net/badge/:subject/:status/:color?icon=ion 
+https://badgen.net/github/release/babel/babel
 
 My name is [Alberto Jimenez](https://www.linkedin.com/in/alberto-jimenez-8a8559222/), I studied electronics to understand the workings of electronic musical instruments and the inner of sound design. 
 
