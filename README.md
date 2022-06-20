@@ -18,7 +18,7 @@ la estructura me apetece que sea como he hecho en el proyecto del master:
 
 Los enlaces que aqui pongo te llevan al readme y de ahí al enlace del proyecto
 
-# My data science projects
+# Data science projects
 |||
 |:---|:---|
 |**R**||
@@ -35,4 +35,6 @@ Los enlaces que aqui pongo te llevan al readme y de ahí al enlace del proyecto
 ||[Clean and Analyze Employee Exit Surveys](https://github.com/albertjimrod/Data-science-projects/blob/main/03_Data_Cleaning/Clean%20and%20Analyze%20Employee%20Exit%20Surveys/README.md)|
 |**SQL**||
 ||[Analyzing CIA Factbook Data Using SQL](https://github.com/albertjimrod/Data-science-projects/blob/main/05_SQL/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/README.md)|
+|**Web Scrapping**||
+||W||
 
