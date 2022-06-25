@@ -77,7 +77,7 @@ These are some of the personal projects I have been doing:
 
 	So it was a challenge to adjust that time scale to the date that corresponded to it.
 
-	![sample_hispasonic_output.png](sample_hispasonic_output.png)
+	![[sample_hispasonic_output.png](sample_hispasonic_output.png)](https://github.com/albertjimrod/personal_projects/blob/eda3a5e2834ca3e162749296f8a43d7552692aff/web_scrapping/sample_hispasonic_output.png)
 
 
 	### Xuxes:
@@ -86,7 +86,7 @@ These are some of the personal projects I have been doing:
 
 	One of the things I had to fine-tune because I didn't know enough was to work with regular expressions which saved me most of the time.
 
-	![xuxes_csv.png](xuxes_csv.png)
+	![[xuxes_csv.png](/web_scrapping/eurogrow_cvs.png)](https://github.com/albertjimrod/personal_projects/blob/eda3a5e2834ca3e162749296f8a43d7552692aff/web_scrapping/sample_hispasonic_output.png)
 
 	### Eurogrow:
 
@@ -98,7 +98,7 @@ These are some of the personal projects I have been doing:
 	 - BeautifulSoup: https://beautiful-soup-4.readthedocs.io/en/latest/ allows the extraction of data from documents of type HTML and XML.
 	 - Selenium (webdriver): https://www.selenium.dev/documentation/webdriver/ Controls a browser natively, as a user would, either locally or on a remote machine using the Selenium server, marks a leap forward in terms of browser automation.
 
-	![eurogrow_cvs.png](eurogrow_cvs.png)
+![eurogrow_cvs](https://github.com/albertjimrod/personal_projects/blob/eda3a5e2834ca3e162749296f8a43d7552692aff/web_scrapping/eurogrow_cvs.png)
 
 	Learn that there are pages which there are different technologies and that depending on how these pages are made we must access the data through a different strategy.
 
