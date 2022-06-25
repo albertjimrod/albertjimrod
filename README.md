@@ -34,6 +34,84 @@ These are some of the projects I have been working on:
 ||W||
 
 
-# Personal_projects
 
-[Personal_projects](https://github.com/albertjimrod/personal_projects)
+
+# [Personal_projects](https://github.com/albertjimrod/personal_projects)
+
+These are some of the personal projects I have been doing:
+
+- [Sonus transcribere](https://github.com/albertjimrod/personal_projects/tree/main/Sonus_transcribere)
+
+	This is the first project on this list is , it is a very simple audio transcriber where I use the google API for the first time. While I was studying the Master online I realized that I wasted too much time taking annotations of the videos and that they did not have the possibility to transcribe the text since they were hosted on Vimeo privately. Therefore I had to invent the way to obtain the content of the lessons in a written support and then proceed to the study of the document.
+
+- [FREQUENCY CLASSIFICATION OF SOUND SAMPLES THROUGH THE REDUCTION OF DIMENSIONALITY THROUGH MULTIDIMENSIONAL SCALING](https://github.com/albertjimrod/personal_projects/tree/main/Master_thesis)
+
+	I am not an expert in business analysis and my background is practically based on sound therefore it seemed to me that I should be honest in the realization of the project and apply my experience in the field of sound. I thought it will be appropriate to apply techniques that are used in marketing to group potential customers in the world of sound and thus avoid dependence on data sets, and that's how I carried out this project.
+
+
+
+- [Bootstrap Dashboard Interface Design](https://github.com/albertjimrod/personal_projects/tree/main/Bootstrap%20Dashboard%20Interface%20Design)
+
+	A fairly recurring question that arises was: how could I make a web page that had an integrated machine learning model and that allows the visualization of data?
+	
+	As the answer did not go through a simple WordPress I start to understand how serious websites were done, and I found Django. 
+	
+	So I started working on what would be the design of the interface for a page that worked with Django and thus understand the ins and outs of this interesting Framework.
+	
+	
+- [Web_scrapping](https://github.com/albertjimrod/personal_projects/tree/main/web_scrapping)
+	
+	The analysis of data requires the obtaining of data, acquiring that skill I consider necessary within the toolbox of everyone who works with data.
+  
+  # Main motivation :
+
+Obtaining the necessary data automatically for later use and regardless of the datasets that circulate on the Internet, is one of the tools that a data analyst must have in their own toolbox (or at least that's what I think).
+
+## Proyects chronology: 
+
+- [Hispasonic](https://www.hispasonic.com/anuncios/teclados-sintetizadores)
+ 
+- [Xuxes](https://www.xuxes.store/) 
+
+- [Eurogrow](https://eurogrow.es/)
+
+## Things I've learned:
+
+The issue I have experienced have been several:
+
+### Hispasonic:
+
+ - This was the first project, and as such I only made use of the function libraries: Requests and BeautifulSoup the most important challenge was to obtain the dates related to the day on which I did the scrapping because if the user had modified the date it appeared referenced as 2 weeks ago, 5 days ago, 5 minutes ago...
+
+So it was a challenge to adjust that time scale to the date that corresponded to it.
+
+![sample_hispasonic_output.png](sample_hispasonic_output.png)
+
+
+### Xuxes:
+
+After having finished the previous project facing this one was not so difficult since it did not require dates, however I began to realize that I needed another way to enter the data.
+
+One of the things I had to fine-tune because I didn't know enough was to work with regular expressions which saved me most of the time.
+
+![xuxes_csv.png](xuxes_csv.png)
+
+### Eurogrow:
+
+Seeing that the xuxes website was not too complex and suspecting that something I didn't quite understand in depth, I decided to continue with the world of CBD (as there are many pages with these products) and get data on eurogrow.es. Immediately the following points appeared:
+
+- The need to get out of the comfort of using Jupyter notebook and learn how to use a new IDE. In this case Visual Studio Code.
+- Understanding that there is a systematized process in the extraction of data, through the use of function libraries such as:
+ - Requests https://requests.readthedocs.io/en/latest/ the connection with the web to be studied.
+ - BeautifulSoup: https://beautiful-soup-4.readthedocs.io/en/latest/ allows the extraction of data from documents of type HTML and XML.
+ - Selenium (webdriver): https://www.selenium.dev/documentation/webdriver/ Controls a browser natively, as a user would, either locally or on a remote machine using the Selenium server, marks a leap forward in terms of browser automation.
+
+![eurogrow_cvs.png](eurogrow_cvs.png)
+
+Learn that there are pages which there are different technologies and that depending on how these pages are made we must access the data through a different strategy.
+
+For example, a common technique when extracting information is to download those pages that contain what we need to avoid overloading the server pages, however in pages where AJAX is used that is where the sending and return of data by the server is done asynchronously, this is not possible since  when opening the page in the browser it tries to connect to the server automatically making the use of this way of proceeding completely unfeasible.
+
+Also in these projects have made me understand that it is as important to know what is the technology behind each of the pages, as to know what is the structure or importance of the library functions since all this will condition how I will have to make use of some techniques or others.
+
+There are still many things to learn but the main objective at the moment is fulfilled, which was to obtain the data of different pages.
