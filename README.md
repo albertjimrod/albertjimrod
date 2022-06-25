@@ -1,6 +1,3 @@
-
-https://badgen.net/github/release/babel/babel
-
 My name is [Alberto Jimenez](https://www.linkedin.com/in/alberto-jimenez-8a8559222/), I studied electronics to understand the workings of electronic musical instruments and the inner of sound design. 
 
 I was working in different electronics and audiovisual companies as a technician, and also as a freelance sound designer for a company online called [Gameprefabs today **Unity Asset Store**](https://assetstore.unity.com/publishers/2954), and as an [electronic music composer profile](https://www.imdb.com/title/tt0466106/?ref_=fn_al_tt_1) for a couple of movies while I discover Linux, [Arduino](https://www.arduino.cc/), and the Open software community.
@@ -35,7 +32,6 @@ These are some of the projects I have been working on:
 
 
 
-
 # [Personal_projects](https://github.com/albertjimrod/personal_projects)
 
 These are some of the personal projects I have been doing:
@@ -61,57 +57,53 @@ These are some of the personal projects I have been doing:
 	
 - [Web_scrapping](https://github.com/albertjimrod/personal_projects/tree/main/web_scrapping)
 	
-	The analysis of data requires the obtaining of data, acquiring that skill I consider necessary within the toolbox of everyone who works with data.
-  
-  # Main motivation :
+	Obtaining the necessary data automatically for later use and regardless of the datasets that circulate on the Internet, is one of the tools that a data analyst must have in their own toolbox (or at least that's what I think).
 
-Obtaining the necessary data automatically for later use and regardless of the datasets that circulate on the Internet, is one of the tools that a data analyst must have in their own toolbox (or at least that's what I think).
+	## Proyects chronology: 
 
-## Proyects chronology: 
+	- [Hispasonic](https://www.hispasonic.com/anuncios/teclados-sintetizadores)
 
-- [Hispasonic](https://www.hispasonic.com/anuncios/teclados-sintetizadores)
- 
-- [Xuxes](https://www.xuxes.store/) 
+	- [Xuxes](https://www.xuxes.store/) 
 
-- [Eurogrow](https://eurogrow.es/)
+	- [Eurogrow](https://eurogrow.es/)
 
-## Things I've learned:
+	## Things I've learned:
 
-The issue I have experienced have been several:
+	The issue I have experienced have been several:
 
-### Hispasonic:
+	### Hispasonic:
 
- - This was the first project, and as such I only made use of the function libraries: Requests and BeautifulSoup the most important challenge was to obtain the dates related to the day on which I did the scrapping because if the user had modified the date it appeared referenced as 2 weeks ago, 5 days ago, 5 minutes ago...
+	 - This was the first project, and as such I only made use of the function libraries: Requests and BeautifulSoup the most important challenge was to obtain the dates related to the day on which I did the scrapping because if the user had modified the date it appeared referenced as 2 weeks ago, 5 days ago, 5 minutes ago...
 
-So it was a challenge to adjust that time scale to the date that corresponded to it.
+	So it was a challenge to adjust that time scale to the date that corresponded to it.
 
-![sample_hispasonic_output.png](sample_hispasonic_output.png)
+	![sample_hispasonic_output.png](sample_hispasonic_output.png)
 
 
-### Xuxes:
+	### Xuxes:
 
-After having finished the previous project facing this one was not so difficult since it did not require dates, however I began to realize that I needed another way to enter the data.
+	After having finished the previous project facing this one was not so difficult since it did not require dates, however I began to realize that I needed another way to enter the data.
 
-One of the things I had to fine-tune because I didn't know enough was to work with regular expressions which saved me most of the time.
+	One of the things I had to fine-tune because I didn't know enough was to work with regular expressions which saved me most of the time.
 
-![xuxes_csv.png](xuxes_csv.png)
+	![xuxes_csv.png](xuxes_csv.png)
 
-### Eurogrow:
+	### Eurogrow:
 
-Seeing that the xuxes website was not too complex and suspecting that something I didn't quite understand in depth, I decided to continue with the world of CBD (as there are many pages with these products) and get data on eurogrow.es. Immediately the following points appeared:
+	Seeing that the xuxes website was not too complex and suspecting that something I didn't quite understand in depth, I decided to continue with the world of CBD (as there are many pages with these products) and get data on eurogrow.es. Immediately the following points appeared:
 
-- The need to get out of the comfort of using Jupyter notebook and learn how to use a new IDE. In this case Visual Studio Code.
-- Understanding that there is a systematized process in the extraction of data, through the use of function libraries such as:
- - Requests https://requests.readthedocs.io/en/latest/ the connection with the web to be studied.
- - BeautifulSoup: https://beautiful-soup-4.readthedocs.io/en/latest/ allows the extraction of data from documents of type HTML and XML.
- - Selenium (webdriver): https://www.selenium.dev/documentation/webdriver/ Controls a browser natively, as a user would, either locally or on a remote machine using the Selenium server, marks a leap forward in terms of browser automation.
+	- The need to get out of the comfort of using Jupyter notebook and learn how to use a new IDE. In this case Visual Studio Code.
+	- Understanding that there is a systematized process in the extraction of data, through the use of function libraries such as:
+	 - Requests https://requests.readthedocs.io/en/latest/ the connection with the web to be studied.
+	 - BeautifulSoup: https://beautiful-soup-4.readthedocs.io/en/latest/ allows the extraction of data from documents of type HTML and XML.
+	 - Selenium (webdriver): https://www.selenium.dev/documentation/webdriver/ Controls a browser natively, as a user would, either locally or on a remote machine using the Selenium server, marks a leap forward in terms of browser automation.
 
-![eurogrow_cvs.png](eurogrow_cvs.png)
+	![eurogrow_cvs.png](eurogrow_cvs.png)
 
-Learn that there are pages which there are different technologies and that depending on how these pages are made we must access the data through a different strategy.
+	Learn that there are pages which there are different technologies and that depending on how these pages are made we must access the data through a different strategy.
 
-For example, a common technique when extracting information is to download those pages that contain what we need to avoid overloading the server pages, however in pages where AJAX is used that is where the sending and return of data by the server is done asynchronously, this is not possible since  when opening the page in the browser it tries to connect to the server automatically making the use of this way of proceeding completely unfeasible.
+	For example, a common technique when extracting information is to download those pages that contain what we need to avoid overloading the server pages, however in pages where AJAX is used that is where the sending and return of data by the server is done asynchronously, this is not possible since  when opening the page in the browser it tries to connect to the server automatically making the use of this way of proceeding completely unfeasible.
 
-Also in these projects have made me understand that it is as important to know what is the technology behind each of the pages, as to know what is the structure or importance of the library functions since all this will condition how I will have to make use of some techniques or others.
+	Also in these projects have made me understand that it is as important to know what is the technology behind each of the pages, as to know what is the structure or importance of the library functions since all this will condition how I will have to make use of some techniques or others.
 
-There are still many things to learn but the main objective at the moment is fulfilled, which was to obtain the data of different pages.
+	There are still many things to learn but the main objective at the moment is fulfilled, which was to obtain the data of different pages.
