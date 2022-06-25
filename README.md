@@ -38,7 +38,7 @@ These are some of the personal projects I have been doing:
 
 - [Sonus transcribere](https://github.com/albertjimrod/personal_projects/tree/main/Sonus_transcribere)
 
-	This is the first project on this list is , it is a very simple audio transcriber where I use the google API for the first time. While I was studying the Master online I realized that I wasted too much time taking annotations of the videos and that they did not have the possibility to transcribe the text since they were hosted on Vimeo privately. Therefore I had to invent the way to obtain the content of the lessons in a written support and then proceed to the study of the document.
+	This is the first project on this list is , it is a very simple audio transcriber where I use the google API for the first time. While I was studying [](https://accounts.iebschool.com/mi-diploma/abaa0886b52591b851a33c17b4653f20/) I realized that I wasted too much time taking annotations of the videos and that they did not have the possibility to transcribe the text since they were hosted on Vimeo privately. Therefore I had to invent the way to obtain the content of the lessons in a written support and then proceed to the study of the document.
 
 - [FREQUENCY CLASSIFICATION OF SOUND SAMPLES THROUGH THE REDUCTION OF DIMENSIONALITY THROUGH MULTIDIMENSIONAL SCALING](https://github.com/albertjimrod/personal_projects/tree/main/Master_thesis)
 
@@ -100,10 +100,10 @@ These are some of the personal projects I have been doing:
 
 ![eurogrow_cvs](https://github.com/albertjimrod/personal_projects/blob/eda3a5e2834ca3e162749296f8a43d7552692aff/web_scrapping/eurogrow_cvs.png)
 
-	Learn that there are pages which there are different technologies and that depending on how these pages are made we must access the data through a different strategy.
+Learn that there are pages which there are different technologies and that depending on how these pages are made we must access the data through a different strategy.
 
-	For example, a common technique when extracting information is to download those pages that contain what we need to avoid overloading the server pages, however in pages where AJAX is used that is where the sending and return of data by the server is done asynchronously, this is not possible since  when opening the page in the browser it tries to connect to the server automatically making the use of this way of proceeding completely unfeasible.
+For example, a common technique when extracting information is to download those pages that contain what we need to avoid overloading the server pages, however in pages where AJAX is used that is where the sending and return of data by the server is done asynchronously, this is not possible since  when opening the page in the browser it tries to connect to the server automatically making the use of this way of proceeding completely unfeasible.
 
-	Also in these projects have made me understand that it is as important to know what is the technology behind each of the pages, as to know what is the structure or importance of the library functions since all this will condition how I will have to make use of some techniques or others.
+Also in these projects have made me understand that it is as important to know what is the technology behind each of the pages, as to know what is the structure or importance of the library functions since all this will condition how I will have to make use of some techniques or others.
 
-	There are still many things to learn but the main objective at the moment is fulfilled, which was to obtain the data of different pages.
+There are still many things to learn but the main objective at the moment is fulfilled, which was to obtain the data of different pages.
