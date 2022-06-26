@@ -19,7 +19,7 @@ These are some of the projects I have been working on:
 |           |[00-Profitable App Profiles for the App Store and Google Play Markets](https://github.com/albertjimrod/Data-science-projects/tree/main/01%20Python/00-Profitable%20App%20Profiles%20for%20the%20App%20Store%20and%20Google%20Play%20Markets)|
 |           |[01-Hacker News Post](https://github.com/albertjimrod/Data-science-projects/tree/main/01%20Python/01-Exploring%20Hacker%20News%20Posts)|
 |**Data Analisis Visualization**||
-|           |Data Visualization Fundamentals|
+|           |[Traffic on the I-94 Interstate highway.](https://github.com/albertjimrod/Data-science-projects/blob/37af6342916b17e4c1d6b126217a877c1e5b3edc/02%20Data_Analisis_Visualization/01_Data%20Visualization%20Fundamentals/Traffic%20on%20the%20I-94%20Interstate%20highway.ipynb)|
 |           |Exploring eBay Car Sales Data|
 |           |Storytelling Data Visualization and Information Design|
 |**Data_Cleaning**||
