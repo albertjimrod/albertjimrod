@@ -21,8 +21,9 @@ These are some of the projects I have been working on:
 |**Data Analisis Visualization**||
 |           |[Traffic on the I-94 Interstate highway.](https://github.com/albertjimrod/Data-science-projects/blob/37af6342916b17e4c1d6b126217a877c1e5b3edc/02%20Data_Analisis_Visualization/01_Data%20Visualization%20Fundamentals/Traffic%20on%20the%20I-94%20Interstate%20highway.ipynb)|
 |           |[Exploring eBay Car Sales Data](https://github.com/albertjimrod/Data-science-projects/blob/ebefd2a45838ddcb26138b663837186319b67883/02%20Data_Analisis_Visualization/00_Numpy%20introduction/Exploring%20Ebay%20Car%20Sales%20Data%20v2.ipynb)|
+|	    |[Visualizing Earnings Based On College Majors](https://github.com/albertjimrod/Data-science-projects/blob/f994eedccd36a5ccfa3686264f5bddca85c3a49f/02%20Data_Analisis_Visualization/02_Storytelling%20Data%20Visualization%20and%20Information%20Design/Visualizing%20Earnings%20Based%20On%20College%20Majors/Guided%20Project%20Visualizing%20Earnings%20Based%20On%20College%20Majors_version_DQ.ipynb)
 |**Data_Cleaning**||
-||Visualizing Earnings Based On College Majors(Extra)|
+|||
 ||[Clean and Analyze Employee Exit Surveys](https://github.com/albertjimrod/Data-science-projects/blob/084892077a950ec50a5d760544636978a574029c/03_Data_Cleaning/Clean%20and%20Analyze%20Employee%20Exit%20Surveys/Guided%20Project%20Clean%20and%20Analyze%20Employee%20Exit%20Surveys%20DQ-anotaciones-End.ipynb)|
 |**SQL**||
 ||[Analyzing CIA Factbook Data Using SQL](https://github.com/albertjimrod/Data-science-projects/blob/main/05_SQL/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/README.md)|
