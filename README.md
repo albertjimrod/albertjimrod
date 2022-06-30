@@ -25,8 +25,8 @@ These are some of the projects I have been working on:
 |**Data_Cleaning**||
 |||
 ||[Clean and Analyze Employee Exit Surveys](https://github.com/albertjimrod/Data-science-projects/blob/084892077a950ec50a5d760544636978a574029c/03_Data_Cleaning/Clean%20and%20Analyze%20Employee%20Exit%20Surveys/Guided%20Project%20Clean%20and%20Analyze%20Employee%20Exit%20Surveys%20DQ-anotaciones-End.ipynb)|
-||Star Wars Survey|
 ||[Working with Missing Data](https://github.com/albertjimrod/Data-science-projects/blob/f5281ae28f30f325a5aa9e7d0a373c658b20a623/03_Data_Cleaning/Working_Missing_Data/Working%20with%20Missing%20Data.ipynb)
+||Star Wars Survey|
 |**SQL**||
 ||[Analyzing CIA Factbook Data Using SQL](https://github.com/albertjimrod/Data-science-projects/blob/main/05_SQL/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL/README.md)|
 |**Web Scrapping**||
