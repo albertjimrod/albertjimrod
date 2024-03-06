@@ -1,5 +1,25 @@
 ![coder](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
 
+
+<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Languages and Tools:</h3><a id="user-content-languages-and-tools" class="anchor" aria-label="Permalink: Languages and Tools:" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+<p align="center" dir="auto"> 
+  
+<a href="https://www.gnu.org/software/bash/" rel="nofollow"> <img src="https://camo.githubusercontent.com/7b3bccfadc92429d2907d1c4d5f154a4153934163fa0fe4f458c4676a8dbf673/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" alt="bash" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a> </p>
+
+
+<a href="https://www.python.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a> 
+
+
+<a href="https://pandas.pydata.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-plain.svg" alt="docker" width="40" height="40" style="max-width: 100%;"> </a> 
+
+<a href="https://numpy.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-plain.svg" alt="docker" width="40" height="40" style="max-width: 100%;"> </a>
+
+<a href="https://cloud.google.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/c5154bccf972e16333d42688e3e02a424b422a557fdbbac94972dcd2eebfe590/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="gcp" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="max-width: 100%;"> </a> 
+
+<a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fcafa5ebc1f5f789ae7d012a3ecd8fe7bda49516591caf7c37698f764165d880/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a> 
+
+
 **A bit about me**:
 
 Hello! I’m Alberto Jiménez.👋
