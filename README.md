@@ -16,18 +16,17 @@
 
 Hello! I’m Alberto Jiménez.👋
 
-My journey in this field began in 2019 when I decided to change my professional path from electronics to pursue a [Master’s in Business Intelligence and Data Science](https://accounts.iebschool.com/mi-diploma/abaa0886b52591b851a33c17b4653f20/) at [IEBS](https://www.iebschool.com/), School of Business Innovation and Entrepreneurs. During that period, I immersed myself completely in my studies, convinced that[my final master’s project](https://datablogcafe.com/wp-content/uploads/2023/09/Clasificacion_frecuencial-2.pdf) should fully reflect the knowledge gained both technically and conceptually. Additionally, since I previously had no experience in data science, completing a frequency classifier on my own was particularly important.
+My journey in this field began in 2019 when I decided to change my professional path from electronics to pursue a [Master’s in Business Intelligence and Data Science](https://accounts.iebschool.com/mi-diploma/abaa0886b52591b851a33c17b4653f20/) at [IEBS](https://www.iebschool.com/), School of Business Innovation and Entrepreneurs. During that period, I immersed myself completely in my studies, convinced that [my final master’s project](https://datablogcafe.com/wp-content/uploads/2023/09/Clasificacion_frecuencial-2.pdf) should fully reflect the knowledge gained both technically and conceptually, since I previously had no experience in Data science, completing a frequency classifier on my own was particularly important.
 
-However, this made me realize that there was more to explore, leading me to want to delve deeper into data science. As a result, I obtained the [Data Scientist in Python](https://app.dataquest.io/view_cert/UAGTJIPHITLCLNO8B7X3)by [Dataquest](https://www.dataquest.io/).
-
-
-From that moment on, I focused on improving my technical skills within this exciting field. Working on projects at dataquest.io, as well as obtaining the [Google Data Analytics certificate](https://coursera.org/share/e330e85b9a469d87b9f8729bb552f095)and the [Google Business Intelligence](https://www.coursera.org/account/accomplishments/professional-cert/LLQOZY2Q1TDY), have been instrumental in my growth.
+However, this made me realize that there was more to explore, leading me to want to delve deeper into data science. As a result, I obtained the [Data Scientist in Python](https://app.dataquest.io/view_cert/UAGTJIPHITLCLNO8B7X3) by [Dataquest](https://www.dataquest.io/).
 
 
-Apart from the projects presented here, if you're interested in notes on a particular topic or personal reflections on this or that thing, I maintain a blog where I often share my thoughts. You can visit it [https://datablogcafe.com/](https://datablogcafe.com/) and if you are interested in other ways of thinking I invite you to go through my other personal page [albertojimenez.net](https://albertojimenez.net/en/) where thanks to the [LEGO® Serious Play® methodology](https://www.lego.com/en-gb/themes/serious-play/background) you can obtain new ways of thinking and solving problems.
+From that moment on, I focused on improving my technical skills within this exciting field. Working on projects at dataquest.io, as well as obtaining the [Google Data Analytics certificate](https://coursera.org/share/e330e85b9a469d87b9f8729bb552f095) and the [Google Business Intelligence](https://www.coursera.org/account/accomplishments/professional-cert/LLQOZY2Q1TDY), have been instrumental in my technical growth.
 
 
+Apart from the projects presented here, if you're interested in notes on a particular topic or personal reflections on this or that thing, I (try to) maintain a blog where I often share my thoughts. You can visit it [https://datablogcafe.com/](https://datablogcafe.com/) and if you are interested in other ways of thinking I invite you to go through my other personal page [albertojimenez.net](https://albertojimenez.net/en/) where thanks to the [LEGO® Serious Play® methodology](https://www.lego.com/en-gb/themes/serious-play/background) I've gotten new ways of thinking and solving a problem.
 
-You're more than welcome.🤝
+
+Welcome.🤝
 
 A.
