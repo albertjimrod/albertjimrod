@@ -9,7 +9,7 @@
 <a href="https://www.gnu.org/software/bash/" rel="nofollow"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> 
 
-<a href="https://www.gnu.org/software/bash/bash.html" rel="nofollow"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" alt="bash" width="40" height="40" style="max-width: 100%;"> </a> 
+<a href="https://www.gnu.org/software/bash/bash.html" rel="nofollow"> <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/64x64.png" alt="bash" width="40" height="40" style="max-width: 100%;"> </a> 
 
 <a href="https://git-scm.com/" rel="nofollow"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a> 
 
