@@ -21,15 +21,7 @@ Users submit Ask posts to ask the community a specific question, and users also 
  A number of questions have then been raised to understand a little better the character of the community.
 
  1. Finding posts starting with `Ask` and `Show`
- 2. Average and maximum number of comments for `Ask` and `Show` posts
- 3. Titles of the highest score for `Ask` and `Show` posts
- 4. Finding the number of `Ask` comments posted by hour
- 5. Posts created at a certain time, receive more comments on average.
- 6. Most relevant authors in ``Ask` post
- 7. What are the most significant activity by user in `Ask` post?
- 8. What are the most significant activity by user in `Show` posts?
- 9. Who has been the most voted, when, and title of the post?
- 10. Summary
+ 2. Calculating the average of comments for `Ask` and `Show` posts
 
 ***
 
