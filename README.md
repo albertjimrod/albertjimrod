@@ -1,32 +1,100 @@
-![coder](https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif)
+<div align="center">
+
+# Alberto Jiménez
+
+**Data Analyst · Python Developer · LEGO Serious Play Facilitator**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-datablogcafe.com-fdbf05?style=for-the-badge&logo=google-chrome&logoColor=white)](https://datablogcafe.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertjimrod/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertjimenezrod@gmail.com)
+
+</div>
 
 ---
 
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Languages and Tools:</h3><a id="user-content-languages-and-tools" class="anchor" aria-label="Permalink: Languages and Tools:" href="#languages-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+## About Me
 
-<p align="center" dir="auto"> 
+Data Analyst with **5+ years** of technical training and a background in **industrial electronics**. I transform raw data into actionable insights using Python, SQL, and modern BI tools.
 
-<a href="https://www.gnu.org/software/bash/" rel="nofollow"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> <a href="https://www.gnu.org/software/bash/bash.html" rel="nofollow"> <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/64x64.png" alt="bash" width="40" height="40" style="max-width: 100%;"> <span style="margin-right: 20px;"></span> </a> <a href="https://git-scm.com/" rel="nofollow"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-Black.png" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> <span style="margin-right: 20px;"></span> </a> <a href="https://www.python.org/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> <a href="https://pandas.pydata.org/" rel="nofollow"> <span style="margin-right: 20px;"></span> </a><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40" style="max-width: 100%;"> <a href="https://cloud.google.com/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" style="max-width: 100%;"> <span style="margin-right: 20px;"></span> </a> <a href="https://numpy.org/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="Numpy" width="40" height="40" style="max-width: 100%;"> <span style="margin-right: 20px;"></span> </a> <a href="https://cloud.google.com/bigquery/" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="Google BigQuery" width="40" height="40" style="max-width: 100%;"> <span style="margin-right: 20px;"></span> </a> <a href="https://matplotlib.org/stable/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" style="max-width: 100%;">  <span style="margin-right: 20px;"></span> </a> <a href="https://anaconda.org/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Conda_logo.svg" alt="Conda" width="40" height="40" style="max-width: 100%;"> <span style="margin-right: 20px;"></span> </a> <a href="https://scikit-learn.org/stable/index.html" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40" style="max-width: 100%;"> <span style="margin-right: 20px;"></span> </a> <a href="https://www.tensorflow.org/?hl=es" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="max-width: 100%;"> <span style="margin-right: 20px;"></span> </a> <a href="https://keras.io/" rel="nofollow"> <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40" style="max-width: 100%;"> <span style="margin-right: 20px;"></span> </a> <a href="https://joplinapp.org/" rel="nofollow"> <img src="https://www.noteapps.ca/content/images/2023/01/Joplin-logo.png" alt="Joplin" width="40" height="40" style="max-width: 100%;"> <span style="margin-right: 20px;"></span> </a>
+As a **certified LEGO Serious Play Facilitator**, I bridge the gap between data and people—because data tells stories, but it's people who interpret and act on them.
 
+📍 Barcelona, Spain
 
 ---
 
-**A bit about me**:
+## Featured Projects
 
-Hello! I’m Alberto Jiménez.👋
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🎵 [**Audio Sample Classifier**](https://accounts.iebschool.com/mi-diploma/abaa0886b52591b851a33c17b4653f20/) | ML pipeline for automatic audio classification using MFCC and PCA | `R` `ML` `Clustering` |
+| 🕷️ [**Hispasonic Web Scraper**](https://github.com/albertjimrod/hispasonic) | Extraction & analysis of 10,000+ posts with SQLite storage | `Python` `BeautifulSoup` `Pandas` |
+| 🛠️ [**Bash Automation Tools**](https://github.com/albertjimrod/albertjimrod/tree/main/bash_tools) | CLI tools: Conda env manager, WordPress publisher, file deduplication | `Bash` `Python` `REST APIs` |
+| 📄 [**OCR Translation Pipeline**](https://github.com/albertjimrod/OCR-Translation-AI-Processing) | Automated OCR, translation & AI processing workflow | `Bash` `Tesseract` `AI` |
 
-My journey in this field began in 2019 when I decided to change my professional path from electronics to pursue a [Master’s in Business Intelligence and Data Science](https://accounts.iebschool.com/mi-diploma/abaa0886b52591b851a33c17b4653f20/) at [IEBS](https://www.iebschool.com/), School of Business Innovation and Entrepreneurs. During that period, I immersed myself completely in my studies, convinced that [my final master’s project](https://datablogcafe.com/wp-content/uploads/2023/09/Clasificacion_frecuencial-2.pdf) should fully reflect the knowledge gained both technically and conceptually, since I previously had no experience in Data science, completing a frequency classifier on my own was particularly important.
+---
 
-However, this made me realize that there was more to explore, leading me to want to delve deeper into data science. As a result, I obtained the [Data Scientist in Python](https://app.dataquest.io/view_cert/UAGTJIPHITLCLNO8B7X3) by [Dataquest](https://www.dataquest.io/).
+## Tech Stack
 
+<div align="center">
 
-From that moment on, I focused on improving my technical skills within this exciting field. Working on projects at dataquest.io, as well as obtaining the [Google Data Analytics certificate](https://coursera.org/share/e330e85b9a469d87b9f8729bb552f095) and the [Google Business Intelligence](https://www.coursera.org/account/accomplishments/professional-cert/LLQOZY2Q1TDY), have been instrumental in my technical growth.
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-Apart from the projects presented here, if you're interested in notes on a particular topic or personal reflections on this or that thing, I (try to) maintain a blog where I often share my thoughts. You can visit it [https://datablogcafe.com/](https://datablogcafe.com/) and if you are interested in other ways of thinking I invite you to go through my other personal page [albertojimenez.net](https://albertojimenez.net/en/) where thanks to the [LEGO® Serious Play® methodology](https://www.lego.com/en-gb/themes/serious-play/background) I've gotten new ways of thinking and solving a problem.
+**Data & Analytics**
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-Welcome.🤝
+**BI & Visualization**
 
-A.
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## Certifications
+
+- 🧩 **LEGO Serious Play Facilitator** - Certified
+- 📊 **Google Business Intelligence Professional** - [Coursera 2024](https://www.coursera.org/account/accomplishments/professional-cert/LLQOZY2Q1TDY)
+- 📈 **Google Data Analytics** - [Coursera 2023](https://coursera.org/share/e330e85b9a469d87b9f8729bb552f095)
+- 🐍 **Data Scientist in Python** - [Dataquest](https://app.dataquest.io/view_cert/UAGTJIPHITLCLNO8B7X3)
+- 🎓 **Master in BI & Data Science** - [IEBS 2020](https://accounts.iebschool.com/mi-diploma/abaa0886b52591b851a33c17b4653f20/)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertjimrod&show_icons=true&theme=dark&bg_color=020024&title_color=fdbf05&icon_color=fdbf05&text_color=ffffff&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertjimrod&layout=compact&theme=dark&bg_color=020024&title_color=fdbf05&text_color=ffffff&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's connect!**
+
+From industrial electronics to Data Science—always learning, always building.
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-datablogcafe.com-fdbf05?style=flat-square)](https://datablogcafe.com)
+
+</div>
