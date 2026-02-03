@@ -5,6 +5,7 @@
 **Data Analyst · Python Developer · LEGO Serious Play Facilitator**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-datablogcafe.com-fdbf05?style=for-the-badge&logo=google-chrome&logoColor=white)](https://datablogcafe.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/albertjimrod)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertjimrod/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertjimenezrod@gmail.com)
 
