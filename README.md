@@ -29,7 +29,7 @@ As a **certified LEGO Serious Play Facilitator**, I bridge the gap between data 
 |---------|-------------|------|
 | 🎵 [**Audio Sample Classifier**](https://accounts.iebschool.com/mi-diploma/abaa0886b52591b851a33c17b4653f20/) | ML pipeline for automatic audio classification using MFCC and PCA | `R` `ML` `Clustering` |
 | 🕷️ [**Hispasonic Web Scraper**](https://github.com/albertjimrod/hispasonic) | Extraction & analysis of 10,000+ posts with SQLite storage | `Python` `BeautifulSoup` `Pandas` |
-| 🛠️ [**Bash Automation Tools**](https://github.com/albertjimrod/albertjimrod/tree/main/bash_tools) | CLI tools: Conda env manager, WordPress publisher, file deduplication | `Bash` `Python` `REST APIs` |
+| 🛠️ [**Bash Automation Tools**](https://github.com/albertjimrod/bash_tools) | CLI tools: Conda env manager, WordPress publisher, file deduplication | `Bash` `Python` `REST APIs` |
 | 📄 [**OCR Translation Pipeline**](https://github.com/albertjimrod/OCR-Translation-AI-Processing) | Automated OCR, translation & AI processing workflow | `Bash` `Tesseract` `AI` |
 
 ---
@@ -82,9 +82,9 @@ As a **certified LEGO Serious Play Facilitator**, I bridge the gap between data 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertjimrod&show_icons=true&theme=dark&bg_color=020024&title_color=fdbf05&icon_color=fdbf05&text_color=ffffff&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=albertjimrod&show_icons=true&theme=dark&bg_color=020024&title_color=fdbf05&icon_color=fdbf05&text_color=ffffff&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertjimrod&layout=compact&theme=dark&bg_color=020024&title_color=fdbf05&text_color=ffffff&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=albertjimrod&layout=compact&theme=dark&bg_color=020024&title_color=fdbf05&text_color=ffffff&hide_border=true)
 
 </div>
 
