@@ -27,10 +27,12 @@ As a **certified LEGO Serious Play Facilitator**, I bridge the gap between data 
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🎵 [**Audio Sample Classifier**](https://accounts.iebschool.com/mi-diploma/abaa0886b52591b851a33c17b4653f20/) | ML pipeline for automatic audio classification using MFCC and PCA | `R` `ML` `Clustering` |
+| 📊 [**Dashboard Mercado Laboral**](https://github.com/albertjimrod/dashboard-mercado-laboral) | Interactive Data Science salary analysis (2020-2024) with Spain focus | `Looker Studio` `SQL` `Python` |
 | 🕷️ [**Hispasonic Web Scraper**](https://github.com/albertjimrod/hispasonic) | Extraction & analysis of 10,000+ posts with SQLite storage | `Python` `BeautifulSoup` `Pandas` |
-| 🛠️ [**Bash Automation Tools**](https://github.com/albertjimrod/bash_tools) | CLI tools: Conda env manager, WordPress publisher, file deduplication | `Bash` `Python` `REST APIs` |
-| 📄 [**OCR Translation Pipeline**](https://github.com/albertjimrod/OCR-Translation-AI-Processing) | Automated OCR, translation & AI processing workflow | `Bash` `Tesseract` `AI` |
+| 📄 [**OCR Translation Pipeline**](https://github.com/albertjimrod/OCR-Translation-AI-Processing) | Automated OCR, translation & AI processing workflow | `Bash` `Tesseract` `Ollama` |
+| 📈 [**Dataquest Projects**](https://github.com/albertjimrod/dataquest-projects) | Data analysis portfolio: market research, traffic analysis, surveys | `Python` `Pandas` `Matplotlib` |
+| 💼 [**Compare Jobs**](https://github.com/albertjimrod/compare_jobs) | Tool for comparing job listings and analyzing market trends | `Python` `Data Analysis` |
+| 🛠️ [**Bash Tools**](https://github.com/albertjimrod/bash_tools) | CLI utilities: Conda env manager, Git search, file tools | `Bash` `Automation` |
 
 ---
 
