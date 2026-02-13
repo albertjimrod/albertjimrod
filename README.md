@@ -33,6 +33,7 @@ As a **certified LEGO Serious Play Facilitator**, I bridge the gap between data 
 | 📈 [**Dataquest Projects**](https://github.com/albertjimrod/dataquest-projects) | Data analysis portfolio: market research, traffic analysis, surveys | `Python` `Pandas` `Matplotlib` |
 | 💼 [**Compare Jobs**](https://github.com/albertjimrod/compare_jobs) | Tool for comparing job listings and analyzing market trends | `Python` `Data Analysis` |
 | 🛠️ [**Bash Tools**](https://github.com/albertjimrod/bash_tools) | CLI utilities: Conda env manager, Git search, file tools | `Bash` `Automation` |
+| 🔊 [**Clasificación Frecuencial MDS**](https://github.com/albertjimrod/Clasificacion-Frecuencial-MDS) | Acoustic similarity analysis of audio samples using MFCC cross-correlation & MDS | `R` `warbleR` `igraph` |
 
 ---
 
