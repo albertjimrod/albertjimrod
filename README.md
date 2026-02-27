@@ -2,7 +2,7 @@
 
 # Alberto Jiménez
 
-**Data Analyst · Python Developer · LEGO Serious Play Facilitator**
+**Data Scientist · Audio ML Engineer | Signal Processing · Python · Automation**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-datablogcafe.com-fdbf05?style=for-the-badge&logo=google-chrome&logoColor=white)](https://datablogcafe.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/albertjimrod)
@@ -15,25 +15,27 @@
 
 ## About Me
 
-Data Analyst with **5+ years** of technical training and a background in **industrial electronics**. I transform raw data into actionable insights using Python, SQL, and modern BI tools.
+I came to audio ML from an unexpected place: industrial electronics and years of taking synthesisers apart to understand how they work.
 
-As a **certified LEGO Serious Play Facilitator**, I bridge the gap between data and people—because data tells stories, but it's people who interpret and act on them.
+That background changed how I approach data. I build tools at the intersection of audio and data science — frequency classifiers using MFCC + MDS, automation systems that eliminate friction in technical workflows, and data analysis pipelines from scraping to modelling.
+
+When a process repeats, I build the tool that removes it.
 
 📍 Barcelona, Spain
 
 ---
 
+
 ## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 📊 [**Dashboard Mercado Laboral**](https://github.com/albertjimrod/dashboard-mercado-laboral) | Interactive Data Science salary analysis (2020-2024) with Spain focus | `Looker Studio` `SQL` `Python` |
-| 🕷️ [**Hispasonic Web Scraper**](https://github.com/albertjimrod/hispasonic) | Extraction & analysis of 10,000+ posts with SQLite storage | `Python` `BeautifulSoup` `Pandas` |
+| 🔊 [**Clasificación Frecuencial MDS**](https://github.com/albertjimrod/Clasificacion-Frecuencial-MDS) | Frequency classifier for audio samples using MFCC cross-correlation & MDS | `R` `warbleR` `igraph` |
+| 🤖 [**Article Generator**](https://github.com/albertjimrod/article-generator) | Transforms technical notes into professional articles using local AI (Ollama) | `Python` `Ollama` `Automation` |
+| 🛠️ [**Bash Tools**](https://github.com/albertjimrod/bash_tools) | CLI utilities: Conda env manager, Git search, file tools | `Bash` `Automation` |
+| 🕷️ [**Hispasonic Web Scraper**](https://github.com/albertjimrod/hispasonic) | Extraction & analysis of 10,000+ posts from Spanish music market | `Python` `BeautifulSoup` `SQLite` |
 | 📄 [**OCR Translation Pipeline**](https://github.com/albertjimrod/OCR-Translation-AI-Processing) | Automated OCR, translation & AI processing workflow | `Bash` `Tesseract` `Ollama` |
 | 📈 [**Dataquest Projects**](https://github.com/albertjimrod/dataquest-projects) | Data analysis portfolio: market research, traffic analysis, surveys | `Python` `Pandas` `Matplotlib` |
-| 💼 [**Compare Jobs**](https://github.com/albertjimrod/compare_jobs) | Tool for comparing job listings and analyzing market trends | `Python` `Data Analysis` |
-| 🛠️ [**Bash Tools**](https://github.com/albertjimrod/bash_tools) | CLI utilities: Conda env manager, Git search, file tools | `Bash` `Automation` |
-| 🔊 [**Clasificación Frecuencial MDS**](https://github.com/albertjimrod/Clasificacion-Frecuencial-MDS) | Acoustic similarity analysis of audio samples using MFCC cross-correlation & MDS | `R` `warbleR` `igraph` |
 
 ---
 
@@ -48,11 +50,18 @@ As a **certified LEGO Serious Play Facilitator**, I bridge the gap between data 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
+**Audio ML & Signal Processing**
+
+![librosa](https://img.shields.io/badge/librosa-MFCC-4CAF50?style=flat-square&logo=python&logoColor=white)
+![MIDI](https://img.shields.io/badge/MIDI-SysEx-FF6B35?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_AI-000000?style=flat-square&logo=ollama&logoColor=white)
+
 **Data & Analytics**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 **BI & Visualization**
@@ -97,7 +106,7 @@ As a **certified LEGO Serious Play Facilitator**, I bridge the gap between data 
 
 **Let's connect!**
 
-From industrial electronics to Data Science—always learning, always building.
+Data Science · Audio ML · Automation — always learning, always building.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-datablogcafe.com-fdbf05?style=flat-square)](https://datablogcafe.com)
 
