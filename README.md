@@ -38,6 +38,12 @@ When a process is slow, manual, or repetitive, I build the tool that replaces it
 | 🏦 [**synth-bank-es**](https://github.com/albertjimrod/synth-bank-es) | Full pipeline: INE microdata → CTGAN / GaussianCopula / TVAE → statistical evaluation → Streamlit dashboard | `Python` `SDV` `CTGAN` `Streamlit` `Scipy` |
 | 📊 [**Synthetic Banking Dataset Generator**](https://github.com/albertjimrod/Synthetic-banking-dataset-generator) | Rule-based generator of 1M+ synthetic banking customers across 3 economic scenarios. 52 fields, calibrated default model | `Python` `Pandas` `NumPy` `Multiprocessing` |
 | 🎸 [**Hispasonic Market Analysis**](https://github.com/albertjimrod/hispasonic) | End-to-end pipeline on 5,962 second-hand synth listings: ETL, EDA, supply/demand modelling, HHI concentration, lagged correlation | `Python` `Pandas` `Scipy` `Seaborn` `JupyterLab` |
+| 👔 [**compare_jobs**](https://github.com/albertjimrod/compare_jobs) | CLI tool to compare job listings across sources and analyse market demand by role, location and salary | `Python` `Pandas` `CLI` |
+| 📷 [**OCR Translation Pipeline**](https://github.com/albertjimrod/OCR-Translation-AI-Processing) | Automated OCR, translation and AI post-processing workflow using local Ollama models. Runs fully offline | `Bash` `Tesseract` `Ollama` |
+| 💼 [**Dashboard Mercado Laboral**](https://github.com/albertjimrod/dashboard-mercado-laboral) | Data Science job market and salary analysis dashboard | `Python` `Streamlit` `Pandas` |
+| 💰 [**Cashbot**](https://github.com/albertjimrod/Cashbot) | Financial analysis and trading strategy experiments with Python | `Python` `Pandas` `Finance` |
+| 📚 [**Dataquest Projects**](https://github.com/albertjimrod/dataquest-projects) | Data analysis portfolio from Dataquest learning path: market research, traffic analysis, survey data | `Python` `Pandas` `Matplotlib` |
+| 🕷️ [**Using Scrapy & XPath**](https://github.com/albertjimrod/Using-scrapy-and-xpath) | Web scraping foundations: Scrapy framework, XPath selectors and pipeline structure | `Python` `Scrapy` `XPath` |
 
 ---
 
@@ -49,13 +55,21 @@ mindmap
     B2B & Automatización
       Prospector B2B
         Pipeline 4 fases · LLM
+      compare_jobs
+        Análisis demanda laboral
       Article Generator
         Ollama · multi-format · v6.0
+      OCR Translation Pipeline
+        Tesseract · Ollama · offline
       Bash Tools
         CLI utilities
     Finanzas & Datos
       WealthOptimizer
         Credit Scoring · SHAP
+      Dashboard Mercado Laboral
+        Salarios · BI
+      Cashbot
+        Trading · análisis financiero
       synth-bank-es
         CTGAN · GaussianCopula · TVAE
       Synthetic Banking Generator
@@ -70,6 +84,11 @@ mindmap
     Audio ML
       Clasificación Frecuencial MDS
         MFCC + MDS
+    Aprendizaje & Portfolio
+      Dataquest Projects
+        Análisis de mercados · tráfico
+      Using Scrapy & XPath
+        Web scraping · fundamentos
 ```
 
 ---
