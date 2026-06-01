@@ -32,7 +32,7 @@ When a process is slow, manual, or repetitive, I build the tool that replaces it
 | 🔍 [**Prospector B2B**](https://github.com/albertjimrod/prospector-B2B) | 4-phase LLM pipeline for company discovery & prospecting: web audit, LinkedIn, YouTube, fit scoring | `Python` `Claude` `SerpAPI` `Selenium` `SQLite` |
 | 💳 [**WealthOptimizer**](https://github.com/albertjimrod/wealthoptimizer) | Interactive credit risk scoring dashboard with SHAP explainability. AUC-ROC 0.918 | `Python` `Streamlit` `Scikit-learn` `SHAP` |
 | 🎹 [**EU Synth Market Observatory**](https://github.com/albertjimrod/eusynth-market-data) | Open dataset of second-hand synthesizer prices from European marketplaces. CC BY 4.0 | `Python` `SQLite` `Docker` |
-| 🤖 [**Article Generator**](https://github.com/albertjimrod/article-generator) | Transforms technical notes into professional articles using local LLMs (Ollama) | `Python` `Ollama` `Automation` |
+| 🤖 [**Article Generator**](https://github.com/albertjimrod/article-generator) | Converts technical notes into structured articles using local LLMs. v6.0: multi-format (.md .txt .ipynb .rst .pdf), Mermaid support, section-chunking for large docs | `Python` `Ollama` `Automation` |
 | 🔊 [**Clasificación Frecuencial MDS**](https://github.com/albertjimrod/Clasificacion-Frecuencial-MDS) | Frequency classifier for audio samples using MFCC cross-correlation & MDS | `R` `warbleR` `igraph` |
 | 🛠️ [**Bash Tools**](https://github.com/albertjimrod/bash_tools) | CLI utilities: Conda env manager, Git search, file deduplication | `Bash` `Automation` |
 | 🏦 [**synth-bank-es**](https://github.com/albertjimrod/synth-bank-es) | Full pipeline: INE microdata → CTGAN / GaussianCopula / TVAE → statistical evaluation → Streamlit dashboard | `Python` `SDV` `CTGAN` `Streamlit` `Scipy` |
@@ -50,7 +50,7 @@ mindmap
       Prospector B2B
         Pipeline 4 fases · LLM
       Article Generator
-        Ollama local
+        Ollama · multi-format · v6.0
       Bash Tools
         CLI utilities
     Finanzas & Datos
