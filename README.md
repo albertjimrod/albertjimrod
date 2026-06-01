@@ -2,12 +2,12 @@
 
 # Alberto Jiménez
 
-**Data Scientist · Audio ML Engineer | Signal Processing · Python · Automation**
+**Data Scientist · Pipeline Builder | Python · LLM Pipelines · Automation**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-datablogcafe.com-fdbf05?style=for-the-badge&logo=google-chrome&logoColor=white)](https://datablogcafe.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/albertjimrod)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/albertjimrod/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertjimenezrod@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albert@datablogcafe.com)
 
 </div>
 
@@ -15,27 +15,57 @@
 
 ## About Me
 
-I came to audio ML from an unexpected place: industrial electronics and years of taking synthesisers apart to understand how they work.
+I build data pipelines and automation systems that remove friction from technical workflows.
 
-That background changed how I approach data. I build tools at the intersection of audio and data science — frequency classifiers using MFCC + MDS, automation systems that eliminate friction in technical workflows, and data analysis pipelines from scraping to modelling.
+My background is in industrial electronics and audio — that's still where I come from, but most of what I build today is Python pipelines: LLM-powered prospecting tools, market data observatories, financial scoring systems, and scraping infrastructure.
 
-When a process repeats, I build the tool that removes it.
+When a process is slow, manual, or repetitive, I build the tool that replaces it.
 
 📍 Barcelona, Spain
 
 ---
 
-
 ## Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| 🔍 [**Prospector B2B**](https://github.com/albertjimrod/prospector-B2B) | 4-phase LLM pipeline for company discovery & prospecting: web audit, LinkedIn, YouTube, fit scoring | `Python` `Claude` `SerpAPI` `Selenium` `SQLite` |
+| 💳 [**WealthOptimizer**](https://github.com/albertjimrod/wealthoptimizer) | Interactive credit risk scoring dashboard with SHAP explainability. AUC-ROC 0.918 | `Python` `Streamlit` `Scikit-learn` `SHAP` |
+| 🎹 [**EU Synth Market Observatory**](https://github.com/albertjimrod/eusynth-market-data) | Open dataset of second-hand synthesizer prices from European marketplaces. CC BY 4.0 | `Python` `SQLite` `Docker` |
+| 🤖 [**Article Generator**](https://github.com/albertjimrod/article-generator) | Transforms technical notes into professional articles using local LLMs (Ollama) | `Python` `Ollama` `Automation` |
 | 🔊 [**Clasificación Frecuencial MDS**](https://github.com/albertjimrod/Clasificacion-Frecuencial-MDS) | Frequency classifier for audio samples using MFCC cross-correlation & MDS | `R` `warbleR` `igraph` |
-| 🤖 [**Article Generator**](https://github.com/albertjimrod/article-generator) | Transforms technical notes into professional articles using local AI (Ollama) | `Python` `Ollama` `Automation` |
-| 🛠️ [**Bash Tools**](https://github.com/albertjimrod/bash_tools) | CLI utilities: Conda env manager, Git search, file tools | `Bash` `Automation` |
-| 🕷️ [**Hispasonic Web Scraper**](https://github.com/albertjimrod/hispasonic) | Extraction & analysis of 10,000+ posts from Spanish music market | `Python` `BeautifulSoup` `SQLite` |
-| 📄 [**OCR Translation Pipeline**](https://github.com/albertjimrod/OCR-Translation-AI-Processing) | Automated OCR, translation & AI processing workflow | `Bash` `Tesseract` `Ollama` |
-| 📈 [**Dataquest Projects**](https://github.com/albertjimrod/dataquest-projects) | Data analysis portfolio: market research, traffic analysis, surveys | `Python` `Pandas` `Matplotlib` |
+| 🛠️ [**Bash Tools**](https://github.com/albertjimrod/bash_tools) | CLI utilities: Conda env manager, Git search, file deduplication | `Bash` `Automation` |
+
+---
+
+## Project Map
+
+```mermaid
+mindmap
+  root((Alberto Jiménez))
+    B2B & Automatización
+      Prospector B2B
+        Pipeline 4 fases · LLM
+      Article Generator
+        Ollama local
+      Bash Tools
+        CLI utilities
+    Finanzas & Datos
+      WealthOptimizer
+        Credit Scoring · SHAP
+      Synthetic Banking Dataset
+        CTGAN · GaussianCopula
+    Mercado de Sintetizadores
+      IntelliSynthPrice
+        Market observatory
+      EU Synth Market Data
+        Open dataset CC BY 4.0
+      Hispasonic Scraper
+        10.000+ posts
+    Audio ML
+      Clasificación Frecuencial MDS
+        MFCC + MDS
+```
 
 ---
 
@@ -50,31 +80,37 @@ When a process repeats, I build the tool that removes it.
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-**Audio ML & Signal Processing**
+**LLM & AI**
 
-![librosa](https://img.shields.io/badge/librosa-MFCC-4CAF50?style=flat-square&logo=python&logoColor=white)
-![MIDI](https://img.shields.io/badge/MIDI-SysEx-FF6B35?style=flat-square&logo=python&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Local_AI-000000?style=flat-square&logo=ollama&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLM-000000?style=flat-square&logo=ollama&logoColor=white)
 
-**Data & Analytics**
+**Data & ML**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-4CAF50?style=flat-square&logo=python&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Web & Scraping**
+
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-Scraping-green?style=flat-square&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **BI & Visualization**
 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -106,7 +142,7 @@ When a process repeats, I build the tool that removes it.
 
 **Let's connect!**
 
-Data Science · Audio ML · Automation — always learning, always building.
+Data Science · Pipeline Builder · Automation — always building.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-datablogcafe.com-fdbf05?style=flat-square)](https://datablogcafe.com)
 
