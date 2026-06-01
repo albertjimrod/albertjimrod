@@ -35,6 +35,8 @@ When a process is slow, manual, or repetitive, I build the tool that replaces it
 | 🤖 [**Article Generator**](https://github.com/albertjimrod/article-generator) | Transforms technical notes into professional articles using local LLMs (Ollama) | `Python` `Ollama` `Automation` |
 | 🔊 [**Clasificación Frecuencial MDS**](https://github.com/albertjimrod/Clasificacion-Frecuencial-MDS) | Frequency classifier for audio samples using MFCC cross-correlation & MDS | `R` `warbleR` `igraph` |
 | 🛠️ [**Bash Tools**](https://github.com/albertjimrod/bash_tools) | CLI utilities: Conda env manager, Git search, file deduplication | `Bash` `Automation` |
+| 🏦 [**synth-bank-es**](https://github.com/albertjimrod/synth-bank-es) | Full pipeline: INE microdata → CTGAN / GaussianCopula / TVAE → statistical evaluation → Streamlit dashboard | `Python` `SDV` `CTGAN` `Streamlit` `Scipy` |
+| 📊 [**Synthetic Banking Dataset Generator**](https://github.com/albertjimrod/Synthetic-banking-dataset-generator) | Rule-based generator of 1M+ synthetic banking customers across 3 economic scenarios. 52 fields, calibrated default model | `Python` `Pandas` `NumPy` `Multiprocessing` |
 
 ---
 
@@ -53,8 +55,10 @@ mindmap
     Finanzas & Datos
       WealthOptimizer
         Credit Scoring · SHAP
-      Synthetic Banking Dataset
-        CTGAN · GaussianCopula
+      synth-bank-es
+        CTGAN · GaussianCopula · TVAE
+      Synthetic Banking Generator
+        Rule-based · 1M clientes · 3 escenarios
     Mercado de Sintetizadores
       IntelliSynthPrice
         Market observatory
