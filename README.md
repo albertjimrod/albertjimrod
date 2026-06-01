@@ -37,6 +37,7 @@ When a process is slow, manual, or repetitive, I build the tool that replaces it
 | 🛠️ [**Bash Tools**](https://github.com/albertjimrod/bash_tools) | CLI utilities: Conda env manager, Git search, file deduplication | `Bash` `Automation` |
 | 🏦 [**synth-bank-es**](https://github.com/albertjimrod/synth-bank-es) | Full pipeline: INE microdata → CTGAN / GaussianCopula / TVAE → statistical evaluation → Streamlit dashboard | `Python` `SDV` `CTGAN` `Streamlit` `Scipy` |
 | 📊 [**Synthetic Banking Dataset Generator**](https://github.com/albertjimrod/Synthetic-banking-dataset-generator) | Rule-based generator of 1M+ synthetic banking customers across 3 economic scenarios. 52 fields, calibrated default model | `Python` `Pandas` `NumPy` `Multiprocessing` |
+| 🎸 [**Hispasonic Market Analysis**](https://github.com/albertjimrod/hispasonic) | End-to-end pipeline on 5,962 second-hand synth listings: ETL, EDA, supply/demand modelling, HHI concentration, lagged correlation | `Python` `Pandas` `Scipy` `Seaborn` `JupyterLab` |
 
 ---
 
@@ -64,8 +65,8 @@ mindmap
         Market observatory
       EU Synth Market Data
         Open dataset CC BY 4.0
-      Hispasonic Scraper
-        10.000+ posts
+      Hispasonic Market Analysis
+        ETL · EDA · Supply/Demand · HHI
     Audio ML
       Clasificación Frecuencial MDS
         MFCC + MDS
